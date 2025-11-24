@@ -1,0 +1,152 @@
+[
+  {
+    "ContainingType": "AlmacenS.Controllers.AlertaReabastecimientoController",
+    "Method": "GetAlertas",
+    "RelativePath": "api/AlertaReabastecimiento",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlmacenS.Controllers.AlertaReabastecimientoController",
+    "Method": "CrearAlerta",
+    "RelativePath": "api/AlertaReabastecimiento",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AlmacenS.Core.DTOs.AlertaReabastecimientoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlmacenS.Controllers.CargaProductoController",
+    "Method": "GetCargas",
+    "RelativePath": "api/CargaProducto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlmacenS.Controllers.CargaProductoController",
+    "Method": "RegistrarCarga",
+    "RelativePath": "api/CargaProducto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AlmacenS.Core.DTOs.CargaProductoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlmacenS.Controllers.DevolucionProductoController",
+    "Method": "GetDevoluciones",
+    "RelativePath": "api/DevolucionProducto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlmacenS.Controllers.DevolucionProductoController",
+    "Method": "RegistrarDevolucion",
+    "RelativePath": "api/DevolucionProducto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AlmacenS.Core.DTOs.DevolucionProductoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlmacenS.Controllers.InventarioEntradasController",
+    "Method": "GetEntradas",
+    "RelativePath": "api/InventarioEntradas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlmacenS.Controllers.InventarioEntradasController",
+    "Method": "RegistrarEntrada",
+    "RelativePath": "api/InventarioEntradas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AlmacenS.Core.DTOs.InventarioEntradaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlmacenS.Controllers.InventarioEntradasController",
+    "Method": "GetInventario",
+    "RelativePath": "api/InventarioEntradas/inventario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlmacenS.Controllers.ProductoController",
+    "Method": "GetCatalogoProductos",
+    "RelativePath": "api/Producto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlmacenS.Controllers.ProductoController",
+    "Method": "CrearProducto",
+    "RelativePath": "api/Producto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AlmacenS.Core.DTOs.ProductoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlmacenS.Controllers.ProductoController",
+    "Method": "GetCatalogoSimple",
+    "RelativePath": "api/Producto/catalogo-simple",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

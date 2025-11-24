@@ -1,0 +1,523 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PrograWebII\\Codigos\\AlmacenS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\core\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:core\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\core\\mapeadores\\mappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:core\\mapeadores\\mappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\core\\dtos\\productocatalogodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:core\\dtos\\productocatalogodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\core\\entities\\alertareabastecimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:core\\entities\\alertareabastecimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\core\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:core\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\controllers\\inventarioentradascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:controllers\\inventarioentradascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\controllers\\cargaproductoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:controllers\\cargaproductoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\core\\interfaces\\iinventarioentradarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:core\\interfaces\\iinventarioentradarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\infrastructure\\repositories\\inventarioentradarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:infrastructure\\repositories\\inventarioentradarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\infrastructure\\repositories\\cargaproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:infrastructure\\repositories\\cargaproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\core\\interfaces\\icargaproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:core\\interfaces\\icargaproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\infrastructure\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:infrastructure\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\core\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:core\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\core\\entities\\cargaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:core\\entities\\cargaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\controllers\\devolucionproductoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:controllers\\devolucionproductoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\controllers\\alertareabastecimientoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:controllers\\alertareabastecimientoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\core\\dtos\\inventarioentradadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:core\\dtos\\inventarioentradadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\infrastructure\\repositories\\devolucionproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:infrastructure\\repositories\\devolucionproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\infrastructure\\repositories\\alertareabastecimientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:infrastructure\\repositories\\alertareabastecimientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\infrastructure\\data\\almacenscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:infrastructure\\data\\almacenscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\core\\interfaces\\idevolucionproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:core\\interfaces\\idevolucionproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\core\\interfaces\\ialertareabastecimientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:core\\interfaces\\ialertareabastecimientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\core\\entities\\inventarioentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:core\\entities\\inventarioentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\core\\entities\\devolucionproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:core\\entities\\devolucionproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\core\\dtos\\devolucionproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:core\\dtos\\devolucionproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\core\\dtos\\cargaproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:core\\dtos\\cargaproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\core\\dtos\\alertareabastecimientodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:core\\dtos\\alertareabastecimientodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|d:\\prograwebii\\codigos\\almacens\\migrations\\20251124210153_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B9BEA-B371-4A94-8DE6-516FC04DFE0D}|AlmacenS.csproj|solutionrelative:migrations\\20251124210153_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Producto.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\Entities\\Producto.cs",
+              "RelativeToolTip": "Core\\Entities\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:02:10.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingExtensions.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\Mapeadores\\MappingExtensions.cs",
+              "RelativeDocumentMoniker": "Core\\Mapeadores\\MappingExtensions.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\Mapeadores\\MappingExtensions.cs",
+              "RelativeToolTip": "Core\\Mapeadores\\MappingExtensions.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAkwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:32:25.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoesController.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Controllers\\ProductoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductoesController.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Controllers\\ProductoesController.cs",
+              "RelativeToolTip": "Controllers\\ProductoesController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:51:24.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:58:46.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-24T20:58:24.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoDTO.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\DTOs\\ProductoDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\ProductoDTO.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\DTOs\\ProductoDTO.cs",
+              "RelativeToolTip": "Core\\DTOs\\ProductoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:19:59.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoCatalogoDTO.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\DTOs\\ProductoCatalogoDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\ProductoCatalogoDTO.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\DTOs\\ProductoCatalogoDTO.cs",
+              "RelativeToolTip": "Core\\DTOs\\ProductoCatalogoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:35:01.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlertaReabastecimiento.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\Entities\\AlertaReabastecimiento.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\AlertaReabastecimiento.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\Entities\\AlertaReabastecimiento.cs",
+              "RelativeToolTip": "Core\\Entities\\AlertaReabastecimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:03:21.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventarioEntradasController.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Controllers\\InventarioEntradasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InventarioEntradasController.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Controllers\\InventarioEntradasController.cs",
+              "RelativeToolTip": "Controllers\\InventarioEntradasController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:50:45.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CargaProductoesController.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Controllers\\CargaProductoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CargaProductoesController.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Controllers\\CargaProductoesController.cs",
+              "RelativeToolTip": "Controllers\\CargaProductoesController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:49:31.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IInventarioEntradaRepository.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\Interfaces\\IInventarioEntradaRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IInventarioEntradaRepository.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\Interfaces\\IInventarioEntradaRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IInventarioEntradaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:40:30.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CargaProductoRepository.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Infrastructure\\Repositories\\CargaProductoRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\CargaProductoRepository.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Infrastructure\\Repositories\\CargaProductoRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\CargaProductoRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA5wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:21:00.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InventarioEntradaRepository.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Infrastructure\\Repositories\\InventarioEntradaRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\InventarioEntradaRepository.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Infrastructure\\Repositories\\InventarioEntradaRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\InventarioEntradaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:21:48.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICargaProductoRepository.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\Interfaces\\ICargaProductoRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\ICargaProductoRepository.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\Interfaces\\ICargaProductoRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\ICargaProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:41:05.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Infrastructure\\Repositories\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ProductoRepository.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Infrastructure\\Repositories\\ProductoRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ProductoRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:22:21.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\Interfaces\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IProductoRepository.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\Interfaces\\IProductoRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:40:13.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CargaProducto.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\Entities\\CargaProducto.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\CargaProducto.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\Entities\\CargaProducto.cs",
+              "RelativeToolTip": "Core\\Entities\\CargaProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:02:54.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DevolucionProductoesController.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Controllers\\DevolucionProductoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DevolucionProductoesController.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Controllers\\DevolucionProductoesController.cs",
+              "RelativeToolTip": "Controllers\\DevolucionProductoesController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:50:02.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AlertaReabastecimientoesController.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Controllers\\AlertaReabastecimientoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlertaReabastecimientoesController.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Controllers\\AlertaReabastecimientoesController.cs",
+              "RelativeToolTip": "Controllers\\AlertaReabastecimientoesController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:49:03.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InventarioEntradaDTO.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\DTOs\\InventarioEntradaDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\InventarioEntradaDTO.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\DTOs\\InventarioEntradaDTO.cs",
+              "RelativeToolTip": "Core\\DTOs\\InventarioEntradaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:20:39.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20251124210153_m1.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Migrations\\20251124210153_m1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251124210153_m1.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Migrations\\20251124210153_m1.cs",
+              "RelativeToolTip": "Migrations\\20251124210153_m1.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAuwGEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T21:01:53.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DevolucionProductoRepository.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Infrastructure\\Repositories\\DevolucionProductoRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\DevolucionProductoRepository.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Infrastructure\\Repositories\\DevolucionProductoRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\DevolucionProductoRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:21:27.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AlertaReabastecimientoRepository.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Infrastructure\\Repositories\\AlertaReabastecimientoRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\AlertaReabastecimientoRepository.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Infrastructure\\Repositories\\AlertaReabastecimientoRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\AlertaReabastecimientoRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:19:13.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AlmacenSContext.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Infrastructure\\Data\\AlmacenSContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AlmacenSContext.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Infrastructure\\Data\\AlmacenSContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AlmacenSContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:14:38.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IDevolucionProductoRepository.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\Interfaces\\IDevolucionProductoRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IDevolucionProductoRepository.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\Interfaces\\IDevolucionProductoRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IDevolucionProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:41:26.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IAlertaReabastecimientoRepository.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\Interfaces\\IAlertaReabastecimientoRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IAlertaReabastecimientoRepository.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\Interfaces\\IAlertaReabastecimientoRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IAlertaReabastecimientoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:41:47.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InventarioEntrada.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\Entities\\InventarioEntrada.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\InventarioEntrada.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\Entities\\InventarioEntrada.cs",
+              "RelativeToolTip": "Core\\Entities\\InventarioEntrada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:02:31.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DevolucionProducto.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\Entities\\DevolucionProducto.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\DevolucionProducto.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\Entities\\DevolucionProducto.cs",
+              "RelativeToolTip": "Core\\Entities\\DevolucionProducto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA6wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:15:50.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DevolucionProductoDTO.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\DTOs\\DevolucionProductoDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\DevolucionProductoDTO.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\DTOs\\DevolucionProductoDTO.cs",
+              "RelativeToolTip": "Core\\DTOs\\DevolucionProductoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:22:10.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CargaProductoDTO.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\DTOs\\CargaProductoDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\CargaProductoDTO.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\DTOs\\CargaProductoDTO.cs",
+              "RelativeToolTip": "Core\\DTOs\\CargaProductoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:21:31.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AlertaReabastecimientoDTO.cs",
+              "DocumentMoniker": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\DTOs\\AlertaReabastecimientoDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\AlertaReabastecimientoDTO.cs",
+              "ToolTip": "D:\\PrograWebII\\Codigos\\AlmacenS\\Core\\DTOs\\AlertaReabastecimientoDTO.cs",
+              "RelativeToolTip": "Core\\DTOs\\AlertaReabastecimientoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:36:53.688Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
