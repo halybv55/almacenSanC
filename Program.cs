@@ -44,6 +44,7 @@ using (var scope = app.Services.CreateScope())
 app.UseSwagger();
 app.UseSwaggerUI();
 
+builder.Services.AddHttpClient();
 
 app.UseHttpsRedirection();
 app.UseCors("AllowAll");
