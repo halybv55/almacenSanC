@@ -1,5 +1,4 @@
-﻿
-using AlmacenS.Core.Interfaces;
+﻿using AlmacenS.Core.Interfaces;
 using AlmacenS.Infrastructure.Data;
 using AlmacenS.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
@@ -8,12 +7,14 @@ var url = Environment.GetEnvironmentVariable("DATABASE");
 Console.WriteLine($"La cadena de coneccion es esta: {url}");
 
 var builder = WebApplication.CreateBuilder(args);
+
 builder.Services.AddDbContext<AlmacenSContext>(options =>
     options.UseNpgsql(url)
 );
 
 builder.WebHost.UseUrls("http://0.0.0.0:8080");
 
+builder.Services.AddHttpClient();
 
 builder.Services.AddScoped<IProductoRepository, ProductoRepository>();
 builder.Services.AddScoped<IInventarioEntradaRepository, InventarioEntradaRepository>();
@@ -43,8 +44,6 @@ using (var scope = app.Services.CreateScope())
 
 app.UseSwagger();
 app.UseSwaggerUI();
-
-builder.Services.AddHttpClient();
 
 app.UseHttpsRedirection();
 app.UseCors("AllowAll");
